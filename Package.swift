@@ -20,7 +20,9 @@ let package = Package(
             name: "Harvest",
             dependencies: [
                 .product(name: "HarvesterCore", package: "HarvesterCore"),
-            ]
+            ],
+            // Xcode uses the asset catalog; xtool takes the icon from Support/AppIcon.png instead.
+            exclude: ["Assets.xcassets"]
         ),
     ],
     swiftLanguageModes: [.v5]

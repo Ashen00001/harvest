@@ -1,8 +1,16 @@
 .DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# SwiftPM / xtool
 /.build
 /Packages/*/.build
 /xtool
-*.ipa
 .swiftpm/
 .sourcekit-lsp/
+*.ipa
+
 __pycache__/
