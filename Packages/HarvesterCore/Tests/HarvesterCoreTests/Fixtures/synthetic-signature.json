@@ -1,0 +1,2133 @@
+{
+ "numberOfSamples": 128000,
+ "sampleChecksum": -2154318,
+ "peakCounts": [
+  38,
+  53,
+  139,
+  186
+ ],
+ "peaks": [
+  [
+   {
+    "pass": 9,
+    "mag": 17616,
+    "bin": 2864
+   },
+   {
+    "pass": 18,
+    "mag": 17930,
+    "bin": 3279
+   },
+   {
+    "pass": 38,
+    "mag": 18523,
+    "bin": 2051
+   },
+   {
+    "pass": 57,
+    "mag": 19985,
+    "bin": 2549
+   },
+   {
+    "pass": 102,
+    "mag": 17965,
+    "bin": 2110
+   },
+   {
+    "pass": 119,
+    "mag": 21920,
+    "bin": 3927
+   },
+   {
+    "pass": 149,
+    "mag": 21780,
+    "bin": 2551
+   },
+   {
+    "pass": 210,
+    "mag": 18048,
+    "bin": 2194
+   },
+   {
+    "pass": 223,
+    "mag": 19985,
+    "bin": 3428
+   },
+   {
+    "pass": 226,
+    "mag": 19660,
+    "bin": 4246
+   },
+   {
+    "pass": 274,
+    "mag": 18679,
+    "bin": 3211
+   },
+   {
+    "pass": 277,
+    "mag": 17568,
+    "bin": 2366
+   },
+   {
+    "pass": 301,
+    "mag": 17931,
+    "bin": 3621
+   },
+   {
+    "pass": 308,
+    "mag": 17665,
+    "bin": 2641
+   },
+   {
+    "pass": 373,
+    "mag": 20325,
+    "bin": 4099
+   },
+   {
+    "pass": 429,
+    "mag": 30903,
+    "bin": 2474
+   },
+   {
+    "pass": 523,
+    "mag": 17756,
+    "bin": 3257
+   },
+   {
+    "pass": 539,
+    "mag": 18418,
+    "bin": 2121
+   },
+   {
+    "pass": 568,
+    "mag": 18521,
+    "bin": 3122
+   },
+   {
+    "pass": 569,
+    "mag": 17855,
+    "bin": 3894
+   },
+   {
+    "pass": 570,
+    "mag": 18387,
+    "bin": 2280
+   },
+   {
+    "pass": 663,
+    "mag": 19278,
+    "bin": 2917
+   },
+   {
+    "pass": 674,
+    "mag": 19573,
+    "bin": 2060
+   },
+   {
+    "pass": 725,
+    "mag": 17911,
+    "bin": 2799
+   },
+   {
+    "pass": 731,
+    "mag": 17854,
+    "bin": 3642
+   },
+   {
+    "pass": 745,
+    "mag": 17955,
+    "bin": 3359
+   },
+   {
+    "pass": 752,
+    "mag": 18429,
+    "bin": 2230
+   },
+   {
+    "pass": 755,
+    "mag": 17792,
+    "bin": 3500
+   },
+   {
+    "pass": 772,
+    "mag": 17563,
+    "bin": 3107
+   },
+   {
+    "pass": 818,
+    "mag": 18113,
+    "bin": 3629
+   },
+   {
+    "pass": 821,
+    "mag": 18526,
+    "bin": 2434
+   },
+   {
+    "pass": 832,
+    "mag": 19401,
+    "bin": 4039
+   },
+   {
+    "pass": 837,
+    "mag": 18540,
+    "bin": 2256
+   },
+   {
+    "pass": 845,
+    "mag": 17562,
+    "bin": 2610
+   },
+   {
+    "pass": 859,
+    "mag": 18213,
+    "bin": 3235
+   },
+   {
+    "pass": 869,
+    "mag": 18377,
+    "bin": 3727
+   },
+   {
+    "pass": 905,
+    "mag": 17534,
+    "bin": 2559
+   },
+   {
+    "pass": 943,
+    "mag": 18271,
+    "bin": 2944
+   }
+  ],
+  [
+   {
+    "pass": 8,
+    "mag": 17499,
+    "bin": 6819
+   },
+   {
+    "pass": 17,
+    "mag": 31096,
+    "bin": 10551
+   },
+   {
+    "pass": 19,
+    "mag": 18350,
+    "bin": 6089
+   },
+   {
+    "pass": 21,
+    "mag": 20485,
+    "bin": 8850
+   },
+   {
+    "pass": 68,
+    "mag": 18867,
+    "bin": 7999
+   },
+   {
+    "pass": 70,
+    "mag": 19730,
+    "bin": 6886
+   },
+   {
+    "pass": 71,
+    "mag": 18789,
+    "bin": 9111
+   },
+   {
+    "pass": 77,
+    "mag": 31124,
+    "bin": 5309
+   },
+   {
+    "pass": 85,
+    "mag": 31122,
+    "bin": 5309
+   },
+   {
+    "pass": 100,
+    "mag": 19229,
+    "bin": 10743
+   },
+   {
+    "pass": 104,
+    "mag": 19739,
+    "bin": 7743
+   },
+   {
+    "pass": 153,
+    "mag": 31016,
+    "bin": 5456
+   },
+   {
+    "pass": 182,
+    "mag": 31052,
+    "bin": 8078
+   },
+   {
+    "pass": 214,
+    "mag": 30970,
+    "bin": 11027
+   },
+   {
+    "pass": 233,
+    "mag": 31061,
+    "bin": 5939
+   },
+   {
+    "pass": 248,
+    "mag": 31062,
+    "bin": 5939
+   },
+   {
+    "pass": 256,
+    "mag": 19630,
+    "bin": 8929
+   },
+   {
+    "pass": 258,
+    "mag": 19660,
+    "bin": 8716
+   },
+   {
+    "pass": 308,
+    "mag": 18156,
+    "bin": 9391
+   },
+   {
+    "pass": 321,
+    "mag": 18047,
+    "bin": 9720
+   },
+   {
+    "pass": 323,
+    "mag": 17874,
+    "bin": 4466
+   },
+   {
+    "pass": 327,
+    "mag": 21924,
+    "bin": 11066
+   },
+   {
+    "pass": 331,
+    "mag": 18109,
+    "bin": 6516
+   },
+   {
+    "pass": 353,
+    "mag": 17689,
+    "bin": 8819
+   },
+   {
+    "pass": 391,
+    "mag": 30931,
+    "bin": 6955
+   },
+   {
+    "pass": 413,
+    "mag": 19670,
+    "bin": 4526
+   },
+   {
+    "pass": 413,
+    "mag": 20541,
+    "bin": 8774
+   },
+   {
+    "pass": 426,
+    "mag": 31013,
+    "bin": 10608
+   },
+   {
+    "pass": 438,
+    "mag": 24853,
+    "bin": 7421
+   },
+   {
+    "pass": 446,
+    "mag": 19290,
+    "bin": 4864
+   },
+   {
+    "pass": 494,
+    "mag": 31117,
+    "bin": 9412
+   },
+   {
+    "pass": 515,
+    "mag": 31111,
+    "bin": 5882
+   },
+   {
+    "pass": 558,
+    "mag": 31015,
+    "bin": 8528
+   },
+   {
+    "pass": 589,
+    "mag": 31118,
+    "bin": 10044
+   },
+   {
+    "pass": 633,
+    "mag": 19071,
+    "bin": 7878
+   },
+   {
+    "pass": 644,
+    "mag": 31117,
+    "bin": 4809
+   },
+   {
+    "pass": 697,
+    "mag": 21890,
+    "bin": 10084
+   },
+   {
+    "pass": 712,
+    "mag": 30709,
+    "bin": 8610
+   },
+   {
+    "pass": 749,
+    "mag": 30912,
+    "bin": 6038
+   },
+   {
+    "pass": 758,
+    "mag": 18988,
+    "bin": 10453
+   },
+   {
+    "pass": 780,
+    "mag": 20171,
+    "bin": 11202
+   },
+   {
+    "pass": 788,
+    "mag": 19610,
+    "bin": 4615
+   },
+   {
+    "pass": 801,
+    "mag": 18271,
+    "bin": 9514
+   },
+   {
+    "pass": 811,
+    "mag": 31136,
+    "bin": 6783
+   },
+   {
+    "pass": 819,
+    "mag": 18888,
+    "bin": 8976
+   },
+   {
+    "pass": 820,
+    "mag": 19797,
+    "bin": 5118
+   },
+   {
+    "pass": 868,
+    "mag": 30801,
+    "bin": 11035
+   },
+   {
+    "pass": 875,
+    "mag": 17975,
+    "bin": 5504
+   },
+   {
+    "pass": 882,
+    "mag": 18324,
+    "bin": 5331
+   },
+   {
+    "pass": 882,
+    "mag": 20922,
+    "bin": 9622
+   },
+   {
+    "pass": 904,
+    "mag": 30673,
+    "bin": 7521
+   },
+   {
+    "pass": 906,
+    "mag": 21872,
+    "bin": 4424
+   },
+   {
+    "pass": 944,
+    "mag": 19839,
+    "bin": 11096
+   }
+  ],
+  [
+   {
+    "pass": 8,
+    "mag": 18186,
+    "bin": 27840
+   },
+   {
+    "pass": 9,
+    "mag": 18532,
+    "bin": 13806
+   },
+   {
+    "pass": 38,
+    "mag": 18394,
+    "bin": 25627
+   },
+   {
+    "pass": 40,
+    "mag": 18637,
+    "bin": 27638
+   },
+   {
+    "pass": 50,
+    "mag": 31013,
+    "bin": 19088
+   },
+   {
+    "pass": 53,
+    "mag": 31141,
+    "bin": 22528
+   },
+   {
+    "pass": 57,
+    "mag": 24784,
+    "bin": 20286
+   },
+   {
+    "pass": 69,
+    "mag": 18989,
+    "bin": 25143
+   },
+   {
+    "pass": 75,
+    "mag": 24570,
+    "bin": 15923
+   },
+   {
+    "pass": 78,
+    "mag": 31090,
+    "bin": 12747
+   },
+   {
+    "pass": 93,
+    "mag": 30742,
+    "bin": 18653
+   },
+   {
+    "pass": 108,
+    "mag": 31096,
+    "bin": 27001
+   },
+   {
+    "pass": 121,
+    "mag": 31089,
+    "bin": 27001
+   },
+   {
+    "pass": 122,
+    "mag": 18137,
+    "bin": 21355
+   },
+   {
+    "pass": 124,
+    "mag": 24721,
+    "bin": 15418
+   },
+   {
+    "pass": 125,
+    "mag": 22029,
+    "bin": 23226
+   },
+   {
+    "pass": 131,
+    "mag": 19396,
+    "bin": 20476
+   },
+   {
+    "pass": 132,
+    "mag": 19215,
+    "bin": 22480
+   },
+   {
+    "pass": 134,
+    "mag": 18610,
+    "bin": 21650
+   },
+   {
+    "pass": 140,
+    "mag": 30916,
+    "bin": 25706
+   },
+   {
+    "pass": 147,
+    "mag": 24593,
+    "bin": 16367
+   },
+   {
+    "pass": 147,
+    "mag": 31076,
+    "bin": 28532
+   },
+   {
+    "pass": 156,
+    "mag": 18416,
+    "bin": 22256
+   },
+   {
+    "pass": 160,
+    "mag": 17681,
+    "bin": 18043
+   },
+   {
+    "pass": 170,
+    "mag": 17960,
+    "bin": 17907
+   },
+   {
+    "pass": 170,
+    "mag": 18202,
+    "bin": 20926
+   },
+   {
+    "pass": 174,
+    "mag": 31139,
+    "bin": 12034
+   },
+   {
+    "pass": 179,
+    "mag": 30900,
+    "bin": 13738
+   },
+   {
+    "pass": 182,
+    "mag": 19384,
+    "bin": 22771
+   },
+   {
+    "pass": 184,
+    "mag": 17531,
+    "bin": 22021
+   },
+   {
+    "pass": 187,
+    "mag": 30900,
+    "bin": 13737
+   },
+   {
+    "pass": 188,
+    "mag": 24405,
+    "bin": 24232
+   },
+   {
+    "pass": 189,
+    "mag": 18142,
+    "bin": 20052
+   },
+   {
+    "pass": 192,
+    "mag": 18583,
+    "bin": 18453
+   },
+   {
+    "pass": 206,
+    "mag": 18921,
+    "bin": 20501
+   },
+   {
+    "pass": 208,
+    "mag": 24590,
+    "bin": 17234
+   },
+   {
+    "pass": 216,
+    "mag": 18529,
+    "bin": 20228
+   },
+   {
+    "pass": 228,
+    "mag": 19479,
+    "bin": 18887
+   },
+   {
+    "pass": 231,
+    "mag": 18527,
+    "bin": 21330
+   },
+   {
+    "pass": 234,
+    "mag": 17376,
+    "bin": 22270
+   },
+   {
+    "pass": 239,
+    "mag": 31071,
+    "bin": 12468
+   },
+   {
+    "pass": 244,
+    "mag": 24475,
+    "bin": 17818
+   },
+   {
+    "pass": 250,
+    "mag": 17884,
+    "bin": 21598
+   },
+   {
+    "pass": 256,
+    "mag": 19260,
+    "bin": 14512
+   },
+   {
+    "pass": 256,
+    "mag": 18475,
+    "bin": 16712
+   },
+   {
+    "pass": 257,
+    "mag": 18557,
+    "bin": 15453
+   },
+   {
+    "pass": 258,
+    "mag": 18461,
+    "bin": 21384
+   },
+   {
+    "pass": 263,
+    "mag": 17300,
+    "bin": 19543
+   },
+   {
+    "pass": 266,
+    "mag": 24724,
+    "bin": 23552
+   },
+   {
+    "pass": 269,
+    "mag": 17502,
+    "bin": 21971
+   },
+   {
+    "pass": 275,
+    "mag": 17807,
+    "bin": 15695
+   },
+   {
+    "pass": 275,
+    "mag": 31130,
+    "bin": 26304
+   },
+   {
+    "pass": 299,
+    "mag": 24370,
+    "bin": 24092
+   },
+   {
+    "pass": 309,
+    "mag": 19916,
+    "bin": 12544
+   },
+   {
+    "pass": 313,
+    "mag": 19132,
+    "bin": 16771
+   },
+   {
+    "pass": 319,
+    "mag": 19814,
+    "bin": 22889
+   },
+   {
+    "pass": 327,
+    "mag": 20089,
+    "bin": 15321
+   },
+   {
+    "pass": 329,
+    "mag": 31073,
+    "bin": 28426
+   },
+   {
+    "pass": 334,
+    "mag": 31054,
+    "bin": 20914
+   },
+   {
+    "pass": 341,
+    "mag": 21936,
+    "bin": 26498
+   },
+   {
+    "pass": 350,
+    "mag": 19794,
+    "bin": 23704
+   },
+   {
+    "pass": 350,
+    "mag": 19692,
+    "bin": 25082
+   },
+   {
+    "pass": 357,
+    "mag": 21574,
+    "bin": 15883
+   },
+   {
+    "pass": 358,
+    "mag": 24624,
+    "bin": 16966
+   },
+   {
+    "pass": 374,
+    "mag": 31140,
+    "bin": 19579
+   },
+   {
+    "pass": 399,
+    "mag": 30678,
+    "bin": 20447
+   },
+   {
+    "pass": 401,
+    "mag": 31050,
+    "bin": 14541
+   },
+   {
+    "pass": 411,
+    "mag": 18694,
+    "bin": 26563
+   },
+   {
+    "pass": 430,
+    "mag": 20786,
+    "bin": 17321
+   },
+   {
+    "pass": 433,
+    "mag": 19684,
+    "bin": 22272
+   },
+   {
+    "pass": 441,
+    "mag": 18315,
+    "bin": 24257
+   },
+   {
+    "pass": 458,
+    "mag": 24513,
+    "bin": 17112
+   },
+   {
+    "pass": 459,
+    "mag": 18463,
+    "bin": 22823
+   },
+   {
+    "pass": 466,
+    "mag": 17785,
+    "bin": 22097
+   },
+   {
+    "pass": 468,
+    "mag": 30723,
+    "bin": 12190
+   },
+   {
+    "pass": 468,
+    "mag": 31056,
+    "bin": 13837
+   },
+   {
+    "pass": 471,
+    "mag": 18918,
+    "bin": 21125
+   },
+   {
+    "pass": 476,
+    "mag": 19210,
+    "bin": 15871
+   },
+   {
+    "pass": 477,
+    "mag": 18879,
+    "bin": 22704
+   },
+   {
+    "pass": 478,
+    "mag": 19029,
+    "bin": 23740
+   },
+   {
+    "pass": 482,
+    "mag": 19041,
+    "bin": 19710
+   },
+   {
+    "pass": 487,
+    "mag": 18138,
+    "bin": 20505
+   },
+   {
+    "pass": 492,
+    "mag": 31127,
+    "bin": 25985
+   },
+   {
+    "pass": 494,
+    "mag": 24840,
+    "bin": 28243
+   },
+   {
+    "pass": 505,
+    "mag": 19303,
+    "bin": 21367
+   },
+   {
+    "pass": 507,
+    "mag": 18661,
+    "bin": 16621
+   },
+   {
+    "pass": 507,
+    "mag": 18915,
+    "bin": 23093
+   },
+   {
+    "pass": 514,
+    "mag": 24515,
+    "bin": 24534
+   },
+   {
+    "pass": 515,
+    "mag": 30888,
+    "bin": 27927
+   },
+   {
+    "pass": 522,
+    "mag": 24629,
+    "bin": 17646
+   },
+   {
+    "pass": 537,
+    "mag": 19053,
+    "bin": 22394
+   },
+   {
+    "pass": 538,
+    "mag": 19284,
+    "bin": 23404
+   },
+   {
+    "pass": 547,
+    "mag": 30672,
+    "bin": 19489
+   },
+   {
+    "pass": 551,
+    "mag": 24618,
+    "bin": 25584
+   },
+   {
+    "pass": 562,
+    "mag": 30676,
+    "bin": 19489
+   },
+   {
+    "pass": 569,
+    "mag": 20047,
+    "bin": 15920
+   },
+   {
+    "pass": 569,
+    "mag": 19653,
+    "bin": 16618
+   },
+   {
+    "pass": 578,
+    "mag": 17275,
+    "bin": 22122
+   },
+   {
+    "pass": 580,
+    "mag": 24672,
+    "bin": 13354
+   },
+   {
+    "pass": 608,
+    "mag": 30872,
+    "bin": 20440
+   },
+   {
+    "pass": 619,
+    "mag": 18394,
+    "bin": 27647
+   },
+   {
+    "pass": 621,
+    "mag": 30986,
+    "bin": 12206
+   },
+   {
+    "pass": 621,
+    "mag": 31059,
+    "bin": 18931
+   },
+   {
+    "pass": 631,
+    "mag": 20250,
+    "bin": 23094
+   },
+   {
+    "pass": 632,
+    "mag": 20212,
+    "bin": 15216
+   },
+   {
+    "pass": 632,
+    "mag": 19026,
+    "bin": 27446
+   },
+   {
+    "pass": 634,
+    "mag": 19054,
+    "bin": 27152
+   },
+   {
+    "pass": 649,
+    "mag": 24464,
+    "bin": 14423
+   },
+   {
+    "pass": 651,
+    "mag": 30777,
+    "bin": 18587
+   },
+   {
+    "pass": 652,
+    "mag": 31125,
+    "bin": 25215
+   },
+   {
+    "pass": 661,
+    "mag": 22392,
+    "bin": 24048
+   },
+   {
+    "pass": 679,
+    "mag": 22135,
+    "bin": 22901
+   },
+   {
+    "pass": 687,
+    "mag": 30927,
+    "bin": 12394
+   },
+   {
+    "pass": 693,
+    "mag": 20095,
+    "bin": 15051
+   },
+   {
+    "pass": 709,
+    "mag": 30976,
+    "bin": 17645
+   },
+   {
+    "pass": 716,
+    "mag": 31124,
+    "bin": 28229
+   },
+   {
+    "pass": 718,
+    "mag": 24349,
+    "bin": 25830
+   },
+   {
+    "pass": 726,
+    "mag": 18834,
+    "bin": 24838
+   },
+   {
+    "pass": 739,
+    "mag": 31133,
+    "bin": 16187
+   },
+   {
+    "pass": 747,
+    "mag": 31151,
+    "bin": 16186
+   },
+   {
+    "pass": 756,
+    "mag": 19158,
+    "bin": 23720
+   },
+   {
+    "pass": 757,
+    "mag": 19558,
+    "bin": 12619
+   },
+   {
+    "pass": 757,
+    "mag": 18889,
+    "bin": 26389
+   },
+   {
+    "pass": 769,
+    "mag": 21647,
+    "bin": 25272
+   },
+   {
+    "pass": 780,
+    "mag": 30786,
+    "bin": 20324
+   },
+   {
+    "pass": 788,
+    "mag": 19113,
+    "bin": 12042
+   },
+   {
+    "pass": 803,
+    "mag": 30876,
+    "bin": 14377
+   },
+   {
+    "pass": 818,
+    "mag": 19240,
+    "bin": 22863
+   },
+   {
+    "pass": 820,
+    "mag": 20688,
+    "bin": 27161
+   },
+   {
+    "pass": 827,
+    "mag": 31094,
+    "bin": 24200
+   },
+   {
+    "pass": 839,
+    "mag": 31060,
+    "bin": 17203
+   },
+   {
+    "pass": 858,
+    "mag": 30821,
+    "bin": 26010
+   },
+   {
+    "pass": 875,
+    "mag": 24789,
+    "bin": 24710
+   },
+   {
+    "pass": 883,
+    "mag": 20541,
+    "bin": 27909
+   },
+   {
+    "pass": 896,
+    "mag": 30899,
+    "bin": 19735
+   },
+   {
+    "pass": 901,
+    "mag": 31061,
+    "bin": 25330
+   },
+   {
+    "pass": 909,
+    "mag": 24458,
+    "bin": 22564
+   },
+   {
+    "pass": 926,
+    "mag": 30727,
+    "bin": 16605
+   },
+   {
+    "pass": 928,
+    "mag": 30986,
+    "bin": 20562
+   }
+  ],
+  [
+   {
+    "pass": 8,
+    "mag": 18403,
+    "bin": 39941
+   },
+   {
+    "pass": 8,
+    "mag": 18408,
+    "bin": 41704
+   },
+   {
+    "pass": 8,
+    "mag": 17832,
+    "bin": 43007
+   },
+   {
+    "pass": 9,
+    "mag": 18382,
+    "bin": 40327
+   },
+   {
+    "pass": 12,
+    "mag": 17382,
+    "bin": 44529
+   },
+   {
+    "pass": 14,
+    "mag": 24710,
+    "bin": 38467
+   },
+   {
+    "pass": 15,
+    "mag": 18433,
+    "bin": 43304
+   },
+   {
+    "pass": 16,
+    "mag": 30951,
+    "bin": 30868
+   },
+   {
+    "pass": 20,
+    "mag": 17776,
+    "bin": 42005
+   },
+   {
+    "pass": 28,
+    "mag": 17911,
+    "bin": 43839
+   },
+   {
+    "pass": 31,
+    "mag": 17907,
+    "bin": 39510
+   },
+   {
+    "pass": 32,
+    "mag": 30870,
+    "bin": 36184
+   },
+   {
+    "pass": 44,
+    "mag": 17846,
+    "bin": 42299
+   },
+   {
+    "pass": 47,
+    "mag": 17449,
+    "bin": 43981
+   },
+   {
+    "pass": 49,
+    "mag": 19284,
+    "bin": 40710
+   },
+   {
+    "pass": 51,
+    "mag": 17893,
+    "bin": 42711
+   },
+   {
+    "pass": 53,
+    "mag": 31132,
+    "bin": 36929
+   },
+   {
+    "pass": 69,
+    "mag": 18606,
+    "bin": 40089
+   },
+   {
+    "pass": 75,
+    "mag": 18160,
+    "bin": 43845
+   },
+   {
+    "pass": 76,
+    "mag": 17703,
+    "bin": 45046
+   },
+   {
+    "pass": 79,
+    "mag": 24231,
+    "bin": 38243
+   },
+   {
+    "pass": 80,
+    "mag": 20064,
+    "bin": 41859
+   },
+   {
+    "pass": 85,
+    "mag": 24232,
+    "bin": 38235
+   },
+   {
+    "pass": 99,
+    "mag": 19161,
+    "bin": 43641
+   },
+   {
+    "pass": 100,
+    "mag": 18314,
+    "bin": 35111
+   },
+   {
+    "pass": 101,
+    "mag": 20034,
+    "bin": 33021
+   },
+   {
+    "pass": 110,
+    "mag": 31099,
+    "bin": 30859
+   },
+   {
+    "pass": 110,
+    "mag": 31141,
+    "bin": 38548
+   },
+   {
+    "pass": 114,
+    "mag": 18291,
+    "bin": 43348
+   },
+   {
+    "pass": 120,
+    "mag": 17734,
+    "bin": 44178
+   },
+   {
+    "pass": 124,
+    "mag": 18119,
+    "bin": 40690
+   },
+   {
+    "pass": 124,
+    "mag": 18746,
+    "bin": 42160
+   },
+   {
+    "pass": 131,
+    "mag": 18347,
+    "bin": 34598
+   },
+   {
+    "pass": 131,
+    "mag": 18980,
+    "bin": 43507
+   },
+   {
+    "pass": 133,
+    "mag": 18866,
+    "bin": 41458
+   },
+   {
+    "pass": 133,
+    "mag": 18185,
+    "bin": 44323
+   },
+   {
+    "pass": 170,
+    "mag": 24650,
+    "bin": 36103
+   },
+   {
+    "pass": 179,
+    "mag": 22034,
+    "bin": 40380
+   },
+   {
+    "pass": 184,
+    "mag": 24840,
+    "bin": 41215
+   },
+   {
+    "pass": 195,
+    "mag": 17823,
+    "bin": 30398
+   },
+   {
+    "pass": 196,
+    "mag": 18261,
+    "bin": 43986
+   },
+   {
+    "pass": 199,
+    "mag": 19898,
+    "bin": 31838
+   },
+   {
+    "pass": 199,
+    "mag": 18325,
+    "bin": 42101
+   },
+   {
+    "pass": 205,
+    "mag": 18570,
+    "bin": 42803
+   },
+   {
+    "pass": 214,
+    "mag": 31110,
+    "bin": 37945
+   },
+   {
+    "pass": 215,
+    "mag": 24468,
+    "bin": 29430
+   },
+   {
+    "pass": 218,
+    "mag": 30811,
+    "bin": 33882
+   },
+   {
+    "pass": 233,
+    "mag": 20477,
+    "bin": 43795
+   },
+   {
+    "pass": 244,
+    "mag": 24391,
+    "bin": 37404
+   },
+   {
+    "pass": 246,
+    "mag": 18270,
+    "bin": 44884
+   },
+   {
+    "pass": 258,
+    "mag": 18418,
+    "bin": 44744
+   },
+   {
+    "pass": 265,
+    "mag": 31129,
+    "bin": 35840
+   },
+   {
+    "pass": 266,
+    "mag": 24421,
+    "bin": 41686
+   },
+   {
+    "pass": 270,
+    "mag": 30723,
+    "bin": 29794
+   },
+   {
+    "pass": 281,
+    "mag": 31130,
+    "bin": 35840
+   },
+   {
+    "pass": 295,
+    "mag": 20339,
+    "bin": 39358
+   },
+   {
+    "pass": 299,
+    "mag": 30883,
+    "bin": 33833
+   },
+   {
+    "pass": 299,
+    "mag": 18031,
+    "bin": 40116
+   },
+   {
+    "pass": 300,
+    "mag": 30977,
+    "bin": 31826
+   },
+   {
+    "pass": 300,
+    "mag": 31259,
+    "bin": 35655
+   },
+   {
+    "pass": 301,
+    "mag": 18720,
+    "bin": 43120
+   },
+   {
+    "pass": 323,
+    "mag": 18003,
+    "bin": 43536
+   },
+   {
+    "pass": 325,
+    "mag": 17818,
+    "bin": 44608
+   },
+   {
+    "pass": 330,
+    "mag": 17720,
+    "bin": 44406
+   },
+   {
+    "pass": 339,
+    "mag": 31021,
+    "bin": 29647
+   },
+   {
+    "pass": 342,
+    "mag": 24475,
+    "bin": 42130
+   },
+   {
+    "pass": 351,
+    "mag": 18172,
+    "bin": 44226
+   },
+   {
+    "pass": 358,
+    "mag": 24621,
+    "bin": 42894
+   },
+   {
+    "pass": 362,
+    "mag": 31012,
+    "bin": 29393
+   },
+   {
+    "pass": 368,
+    "mag": 30944,
+    "bin": 38036
+   },
+   {
+    "pass": 371,
+    "mag": 17736,
+    "bin": 41097
+   },
+   {
+    "pass": 374,
+    "mag": 21380,
+    "bin": 33176
+   },
+   {
+    "pass": 380,
+    "mag": 18653,
+    "bin": 40654
+   },
+   {
+    "pass": 382,
+    "mag": 19282,
+    "bin": 36508
+   },
+   {
+    "pass": 387,
+    "mag": 19260,
+    "bin": 44843
+   },
+   {
+    "pass": 389,
+    "mag": 24380,
+    "bin": 43622
+   },
+   {
+    "pass": 395,
+    "mag": 17910,
+    "bin": 41512
+   },
+   {
+    "pass": 399,
+    "mag": 18385,
+    "bin": 33586
+   },
+   {
+    "pass": 400,
+    "mag": 21365,
+    "bin": 34772
+   },
+   {
+    "pass": 405,
+    "mag": 17728,
+    "bin": 44443
+   },
+   {
+    "pass": 412,
+    "mag": 18650,
+    "bin": 33803
+   },
+   {
+    "pass": 420,
+    "mag": 24287,
+    "bin": 44119
+   },
+   {
+    "pass": 430,
+    "mag": 31118,
+    "bin": 28983
+   },
+   {
+    "pass": 436,
+    "mag": 24489,
+    "bin": 31825
+   },
+   {
+    "pass": 448,
+    "mag": 19660,
+    "bin": 34250
+   },
+   {
+    "pass": 463,
+    "mag": 24478,
+    "bin": 36566
+   },
+   {
+    "pass": 465,
+    "mag": 18090,
+    "bin": 44779
+   },
+   {
+    "pass": 466,
+    "mag": 30716,
+    "bin": 37987
+   },
+   {
+    "pass": 467,
+    "mag": 24397,
+    "bin": 41509
+   },
+   {
+    "pass": 476,
+    "mag": 18490,
+    "bin": 39917
+   },
+   {
+    "pass": 483,
+    "mag": 18200,
+    "bin": 40793
+   },
+   {
+    "pass": 486,
+    "mag": 24678,
+    "bin": 37118
+   },
+   {
+    "pass": 494,
+    "mag": 20088,
+    "bin": 42921
+   },
+   {
+    "pass": 495,
+    "mag": 30923,
+    "bin": 31318
+   },
+   {
+    "pass": 496,
+    "mag": 17745,
+    "bin": 44098
+   },
+   {
+    "pass": 501,
+    "mag": 18168,
+    "bin": 41840
+   },
+   {
+    "pass": 510,
+    "mag": 21989,
+    "bin": 29424
+   },
+   {
+    "pass": 514,
+    "mag": 17759,
+    "bin": 43944
+   },
+   {
+    "pass": 526,
+    "mag": 31108,
+    "bin": 35512
+   },
+   {
+    "pass": 528,
+    "mag": 19846,
+    "bin": 41174
+   },
+   {
+    "pass": 531,
+    "mag": 17918,
+    "bin": 44609
+   },
+   {
+    "pass": 536,
+    "mag": 17120,
+    "bin": 43577
+   },
+   {
+    "pass": 547,
+    "mag": 18307,
+    "bin": 44352
+   },
+   {
+    "pass": 551,
+    "mag": 31146,
+    "bin": 33153
+   },
+   {
+    "pass": 556,
+    "mag": 17434,
+    "bin": 40849
+   },
+   {
+    "pass": 556,
+    "mag": 21898,
+    "bin": 42635
+   },
+   {
+    "pass": 561,
+    "mag": 24690,
+    "bin": 31614
+   },
+   {
+    "pass": 569,
+    "mag": 20769,
+    "bin": 36291
+   },
+   {
+    "pass": 573,
+    "mag": 18893,
+    "bin": 41792
+   },
+   {
+    "pass": 581,
+    "mag": 24606,
+    "bin": 34195
+   },
+   {
+    "pass": 584,
+    "mag": 30785,
+    "bin": 32293
+   },
+   {
+    "pass": 586,
+    "mag": 24722,
+    "bin": 30130
+   },
+   {
+    "pass": 587,
+    "mag": 31109,
+    "bin": 39240
+   },
+   {
+    "pass": 601,
+    "mag": 17944,
+    "bin": 43888
+   },
+   {
+    "pass": 607,
+    "mag": 24745,
+    "bin": 36616
+   },
+   {
+    "pass": 619,
+    "mag": 21676,
+    "bin": 28875
+   },
+   {
+    "pass": 622,
+    "mag": 17062,
+    "bin": 44608
+   },
+   {
+    "pass": 639,
+    "mag": 18882,
+    "bin": 41923
+   },
+   {
+    "pass": 651,
+    "mag": 19638,
+    "bin": 35204
+   },
+   {
+    "pass": 656,
+    "mag": 19162,
+    "bin": 43269
+   },
+   {
+    "pass": 663,
+    "mag": 19026,
+    "bin": 32819
+   },
+   {
+    "pass": 664,
+    "mag": 18804,
+    "bin": 41231
+   },
+   {
+    "pass": 671,
+    "mag": 30950,
+    "bin": 37740
+   },
+   {
+    "pass": 671,
+    "mag": 20028,
+    "bin": 44306
+   },
+   {
+    "pass": 673,
+    "mag": 17827,
+    "bin": 41008
+   },
+   {
+    "pass": 674,
+    "mag": 17847,
+    "bin": 40831
+   },
+   {
+    "pass": 681,
+    "mag": 31091,
+    "bin": 30794
+   },
+   {
+    "pass": 681,
+    "mag": 24320,
+    "bin": 38692
+   },
+   {
+    "pass": 681,
+    "mag": 18614,
+    "bin": 42504
+   },
+   {
+    "pass": 693,
+    "mag": 19196,
+    "bin": 34156
+   },
+   {
+    "pass": 695,
+    "mag": 18945,
+    "bin": 40151
+   },
+   {
+    "pass": 701,
+    "mag": 21329,
+    "bin": 43058
+   },
+   {
+    "pass": 714,
+    "mag": 17102,
+    "bin": 41516
+   },
+   {
+    "pass": 716,
+    "mag": 21388,
+    "bin": 42839
+   },
+   {
+    "pass": 732,
+    "mag": 19815,
+    "bin": 42253
+   },
+   {
+    "pass": 734,
+    "mag": 17604,
+    "bin": 35506
+   },
+   {
+    "pass": 737,
+    "mag": 17850,
+    "bin": 40760
+   },
+   {
+    "pass": 757,
+    "mag": 19353,
+    "bin": 35180
+   },
+   {
+    "pass": 758,
+    "mag": 18281,
+    "bin": 36287
+   },
+   {
+    "pass": 758,
+    "mag": 18480,
+    "bin": 39731
+   },
+   {
+    "pass": 759,
+    "mag": 18797,
+    "bin": 38548
+   },
+   {
+    "pass": 764,
+    "mag": 30784,
+    "bin": 31269
+   },
+   {
+    "pass": 765,
+    "mag": 30687,
+    "bin": 32735
+   },
+   {
+    "pass": 769,
+    "mag": 24677,
+    "bin": 37264
+   },
+   {
+    "pass": 776,
+    "mag": 17444,
+    "bin": 41343
+   },
+   {
+    "pass": 777,
+    "mag": 17853,
+    "bin": 38759
+   },
+   {
+    "pass": 786,
+    "mag": 18386,
+    "bin": 41054
+   },
+   {
+    "pass": 787,
+    "mag": 18856,
+    "bin": 35449
+   },
+   {
+    "pass": 789,
+    "mag": 18659,
+    "bin": 39078
+   },
+   {
+    "pass": 795,
+    "mag": 18113,
+    "bin": 36406
+   },
+   {
+    "pass": 796,
+    "mag": 17900,
+    "bin": 40277
+   },
+   {
+    "pass": 798,
+    "mag": 31125,
+    "bin": 29057
+   },
+   {
+    "pass": 801,
+    "mag": 17519,
+    "bin": 39363
+   },
+   {
+    "pass": 810,
+    "mag": 24818,
+    "bin": 43131
+   },
+   {
+    "pass": 811,
+    "mag": 24626,
+    "bin": 43904
+   },
+   {
+    "pass": 814,
+    "mag": 21823,
+    "bin": 33912
+   },
+   {
+    "pass": 816,
+    "mag": 17919,
+    "bin": 41852
+   },
+   {
+    "pass": 817,
+    "mag": 18161,
+    "bin": 40049
+   },
+   {
+    "pass": 824,
+    "mag": 19786,
+    "bin": 38322
+   },
+   {
+    "pass": 835,
+    "mag": 17950,
+    "bin": 40474
+   },
+   {
+    "pass": 849,
+    "mag": 18645,
+    "bin": 32152
+   },
+   {
+    "pass": 849,
+    "mag": 17897,
+    "bin": 42343
+   },
+   {
+    "pass": 859,
+    "mag": 31124,
+    "bin": 35456
+   },
+   {
+    "pass": 861,
+    "mag": 17687,
+    "bin": 44228
+   },
+   {
+    "pass": 862,
+    "mag": 18311,
+    "bin": 39681
+   },
+   {
+    "pass": 865,
+    "mag": 17622,
+    "bin": 42809
+   },
+   {
+    "pass": 867,
+    "mag": 24604,
+    "bin": 33105
+   },
+   {
+    "pass": 869,
+    "mag": 17643,
+    "bin": 42509
+   },
+   {
+    "pass": 879,
+    "mag": 18188,
+    "bin": 39284
+   },
+   {
+    "pass": 881,
+    "mag": 19968,
+    "bin": 36856
+   },
+   {
+    "pass": 882,
+    "mag": 17831,
+    "bin": 41132
+   },
+   {
+    "pass": 884,
+    "mag": 18067,
+    "bin": 40258
+   },
+   {
+    "pass": 890,
+    "mag": 21445,
+    "bin": 37609
+   },
+   {
+    "pass": 894,
+    "mag": 21437,
+    "bin": 32395
+   },
+   {
+    "pass": 909,
+    "mag": 21391,
+    "bin": 37594
+   },
+   {
+    "pass": 914,
+    "mag": 17951,
+    "bin": 41583
+   },
+   {
+    "pass": 917,
+    "mag": 18240,
+    "bin": 38548
+   },
+   {
+    "pass": 919,
+    "mag": 17854,
+    "bin": 42489
+   },
+   {
+    "pass": 921,
+    "mag": 30692,
+    "bin": 30434
+   },
+   {
+    "pass": 932,
+    "mag": 18193,
+    "bin": 38247
+   },
+   {
+    "pass": 932,
+    "mag": 24301,
+    "bin": 39772
+   },
+   {
+    "pass": 935,
+    "mag": 19120,
+    "bin": 35975
+   },
+   {
+    "pass": 936,
+    "mag": 17837,
+    "bin": 33728
+   },
+   {
+    "pass": 941,
+    "mag": 17938,
+    "bin": 43630
+   },
+   {
+    "pass": 953,
+    "mag": 31053,
+    "bin": 30221
+   },
+   {
+    "pass": 953,
+    "mag": 19622,
+    "bin": 32818
+   }
+  ]
+ ],
+ "signatureBase64": "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",
+ "small": {
+  "numberOfSamples": 192000,
+  "peaks": [
+   [
+    {
+     "pass": 0,
+     "mag": 6000,
+     "bin": 20000
+    },
+    {
+     "pass": 3,
+     "mag": 6100,
+     "bin": 20100
+    }
+   ],
+   [],
+   [
+    {
+     "pass": 10,
+     "mag": 7000,
+     "bin": 40000
+    },
+    {
+     "pass": 300,
+     "mag": 7100,
+     "bin": 40010
+    }
+   ],
+   []
+  ],
+  "signatureBase64": "gCX+yu5r+Fw0AAAAAJwRlAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAD9AgAAAHwAAAAAQDQAAABAAANgCgAAAABwFyBOA9QXhE4AAEIAA2APAAAAClgbQJz/LAEAAAC8G0qcAA=="
+ }
+}

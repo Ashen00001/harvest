@@ -1,0 +1,5 @@
+version: 1
+bundleID: com.ashen.Harvest
+product: Harvest
+infoPath: Support/Info.plist
+iconPath: Support/AppIcon.png
